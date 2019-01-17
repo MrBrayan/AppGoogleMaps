@@ -20,6 +20,9 @@ En medio de las comillas sin espacios.
 * [X] Usa tu propio correo de Gmail
 Adicionalmente, si deseas enviar un correo usando esta aplicación, deberás modificar el archivo strings.xml y usar tu propio correo electrónico.
 
+
+# Para usar los mapas
+* [X] Usa tu propio API ACCESS KEY de google.
 Para probar esta aplicación debes utilizar tu propio API ACCESS KEY de google. en el archivo google_maps_api.xml en la línea 19
 
 
@@ -27,22 +30,22 @@ Para probar esta aplicación debes utilizar tu propio API ACCESS KEY de google. 
 ## Los requisitos anteriores por cuestión de seguridad.
 
 
- * Pantalla principal que contiene el las ubicaciones más concurridas.
+ * Pantalla principal que contiene las ubicaciones más concurridas.
 
 ![alt text](img/AppGoogleMaps1.png "Pantalla Principal")
 
  * Mapa 1
 
-![alt text](img/AppGoogleMaps2.png "Pantalla Principal")
+![alt text](img/AppGoogleMaps2.png "Mapa 1")
 
  * Mapa 2
 
-![alt text](img/AppGoogleMaps3.png "Pantalla Principal")
+![alt text](img/AppGoogleMaps3.png "Mapa 2")
 
  * Mapa 3
 
-![alt text](img/AppGoogleMaps4.png "Pantalla Principal")
+![alt text](img/AppGoogleMaps4.png "Mapa 3")
 
  * Mapa 4
 
-![alt text](img/AppGoogleMaps5.png "Pantalla Principal")
+![alt text](img/AppGoogleMaps5.png "Mapa 4")
