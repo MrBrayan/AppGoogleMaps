@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">AppGoogleMaps</string>
     <string name="title_activity_maps">Lugares Concurridos</string>
+    <string name="lugares">Lugares favoritos de villavicencio!</string>
 </resources>
